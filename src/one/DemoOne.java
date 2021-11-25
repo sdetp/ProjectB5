@@ -6,5 +6,7 @@ public class DemoOne {
 		
 		
 		System.out.println("Learning Github");
+		
+		System.out.println("This is a demo for github");
 	}
 }
